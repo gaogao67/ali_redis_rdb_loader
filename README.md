@@ -1,0 +1,2 @@
+# ali_redis_rdb_loader
+将阿里云的Redis备份文件下载到本地并解析至MySQL数据库
